@@ -1,1 +1,1 @@
-# express-locallibrary-tutorial
+# local-library-app made with Express/MongoDB
